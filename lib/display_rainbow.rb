@@ -1,4 +1,9 @@
 # Write your #display_rainbow method here
-name = "Bob"
+rainbow = ["red", "orange", "yellow", "green", "blue", "indigo", "violet"]
 
-puts "Hello, #{name}"
+def display_rainbow(rainbow)
+end
+
+def display_rainbow
+  puts rainbow
+  
