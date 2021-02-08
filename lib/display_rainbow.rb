@@ -6,4 +6,4 @@ end
 
 def display_rainbow
   puts rainbow
-  
+end
